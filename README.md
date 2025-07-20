@@ -1,10 +1,4 @@
-Your `README.md` looks excellent! It's clean, clear, and follows the same structure Roshan likely used. Just two small corrections to fix the formatting and make it perfect:
 
----
-
-### ✅ Final Version of `README.md` (Corrected)
-
-```markdown
 # 🧠 Employee Salary Prediction Using Machine Learning
 
 ## 📌 Objective
