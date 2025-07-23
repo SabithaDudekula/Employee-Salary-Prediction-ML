@@ -21,8 +21,6 @@ Library required to build the model
      lightgbm
      matplotlib, seaborn
      streamlit
-<img width="937" height="811" alt="image" src="https://github.com/user-attachments/assets/1db047c1-9a15-4638-b190-af5f854b02bc" />
-
 
 ## 🔍 How It Works
 1. Load the dataset  
