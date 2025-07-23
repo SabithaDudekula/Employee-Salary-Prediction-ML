@@ -55,7 +55,19 @@ pip install -r requirements.txt
 python salary_predict.py
 ```
 
+## 📊 Model Evaluation Results
 
+### 📌 Salary Distribution by Experience
+![Result 1](result1.png)
+
+### 📌 Predicted vs Actual Salaries
+![Result 2](result2.png)
+
+### 📌 Feature Importance
+![Result 3](result3.png)
+
+### 📌 Model Performance Metrics
+![Result 4](result4.png)
 
 
 ```
