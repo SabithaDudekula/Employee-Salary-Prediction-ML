@@ -23,10 +23,11 @@ To develop a simple machine learning model that predicts salary using historical
      `streamlit`
 
 ## 🔍 How It Works
-1. Load the dataset  
-2. Train a Linear Regression model using scikit-learn  
-3. Save the trained model as `model.pkl`  
-4. Use it to predict salary for any years of experience  
+1. Load dataset and clean missing values.
+2. Chose LightGBM, a gradient boosting framework known for performance and speed.
+3. Train the LightGBM classifier. Evaluate using accuracy, pressision, and confusion matrix.
+4. Developed an interactive frontend using Streamlit where users can input their profiles to predict salary class.
+5. Hosted locally and optionally on platform like Streamlit.
 
 ## 🧪 Sample Prediction Output
 
