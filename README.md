@@ -81,4 +81,11 @@ python salary_predict.py
 ```
 
 ---
+## ✅ Conclusion
+
+This project demonstrates how a simple yet powerful machine learning model can be used to predict employee salaries based on experience and other relevant features. By leveraging LightGBM and Streamlit, we created an efficient backend model and an interactive web application that can serve HR professionals, analysts, and job seekers alike.
+
+The model showed strong performance with good accuracy and interpretability through feature importance visualization. It also provides a flexible base to be enhanced further by incorporating more features such as education level, job type, or geographic location.
+
+This project proves that machine learning can make real-world predictions practical, explainable, and easily accessible through modern tools.
 
