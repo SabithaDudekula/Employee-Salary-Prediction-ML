@@ -56,22 +56,6 @@ python salary_predict.py
 ```
 
 
-## Output Screenshot
-
-![Sample Output](output.png)
-## 📊 Prediction Output Screenshots
-
-### ✅ Result 1
-![Result 1](result1.png)
-
-### 📌 Input Fields Example
-![Step 1](2.png)
-
-### 📌 Prediction Button Clicked
-![Step 2](3.png)
-
-### 📌 Final Result Displayed
-![Step 3](4.png)
 
 
 ```
