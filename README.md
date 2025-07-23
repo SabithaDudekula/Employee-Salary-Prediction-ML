@@ -11,16 +11,18 @@ To develop a simple machine learning model that predicts salary using historical
 - `README.md` → Project documentation  
 
 ## 🛠️ Tools & Libraries Used
-`System requirements`                                  
-     `Python`
-     `Jupyter Notebook/ VS Code`
-     `Streamlit for Web App development`
-`Library required to build the model`
-     `pandas, numpy`
-     `scikit- learn`
-     `lightgbm`
-     `matplotlib, seaborn`
-     `streamlit`
+
+### 💻 System Requirements
+- `Python`
+- `Jupyter Notebook` / `VS Code`
+- `Streamlit` – for Web App Development
+
+### 📦 Libraries Required to Build the Model
+- `pandas`, `numpy` – data manipulation
+- `scikit-learn` – model building & evaluation
+- `lightgbm` – gradient boosting classifier
+- `matplotlib`, `seaborn` – visualizations
+- `streamlit` – interactive web interface
 
 ## 🔍 How It Works
 1. Load dataset and clean missing values.
