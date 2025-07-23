@@ -11,11 +11,18 @@ To develop a simple machine learning model that predicts salary using historical
 - `README.md` → Project documentation  
 
 ## 🛠️ Tools & Libraries Used
-- Python  
-- Pandas  
-- NumPy  
-- scikit-learn  
-- Pickle  
+System requirements                                   
+     Python
+     Jupyter Notebook/ VS Code
+     Streamlit for Web App development
+Library required to build the model
+     pandas, numpy
+     scikit- learn
+     lightgbm
+     matplotlib, seaborn
+     streamlit
+<img width="937" height="811" alt="image" src="https://github.com/user-attachments/assets/1db047c1-9a15-4638-b190-af5f854b02bc" />
+
 
 ## 🔍 How It Works
 1. Load the dataset  
